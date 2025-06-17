@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.40/win64" 1750154463
+<REAPER_PROJECT 0.1 "7.40/win64" 1750153199
   <NOTES 0 2
   >
   RIPPLE 0 1
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 1.38469516383202 0 0
-  VZOOMEX 6 281
+  CURSOR 192
+  ZOOM 10.7682019894113 1331 0
+  VZOOMEX 6 207
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -106,7 +106,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -1224,8 +1224,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
-    REC 1 5088 1 0 0 0 0 0
+    SEL 0
+    REC 0 5088 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -2998,8 +2998,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 5088 1 0 0 0 0 0
+    SEL 1
+    REC 1 5088 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -4633,7 +4633,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {DD2CA3AF-31C3-4743-8A14-3C9C600CEBCE}
       IID 1140
       NAME 06-MIDI
@@ -4683,146 +4683,128 @@
         E 0 80 34 00
         E 0 80 37 00
         E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 1200 90 29 3e
+        e 960 90 29 3e
         e 0 90 35 3e
         e 0 90 38 3e
         e 0 90 3c 3e
-        e 720 80 29 00
+        e 960 80 29 00
         e 0 80 35 00
         e 0 80 38 00
         e 0 80 3c 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -4831,7 +4813,7 @@
         SRCCOLOR 1185
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW -7082.000365 0.060184 64 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -4129.571565 0.060184 55 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
@@ -4847,19 +4829,19 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {09028E4D-FDEC-4A89-AD31-0393F2D87F71}
-      IID 1188
+      IGUID {322E7A81-9764-4214-8468-1BD743461E23}
+      IID 1141
       NAME 06-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C4571F8C-5436-4460-B753-580A9B140D73}
+      GUID {480E4BA0-28FD-4B79-BBC8-F8A080E98041}
       RECPASS 3
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {523B0EC9-D1FE-49BF-B74B-460F2DDFBCAB}
+        POOLEDEVTS {4BF93210-0DBB-4EF0-B41E-CE7DDBFF4BCE}
         E 0 90 28 3e
         E 0 90 34 3e
         E 0 90 37 3e
@@ -4896,28 +4878,6 @@
         E 0 80 34 00
         E 0 80 37 00
         E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
         E 0 90 28 3e
         E 0 90 34 3e
         E 0 90 37 3e
@@ -4926,28 +4886,6 @@
         E 0 80 34 00
         E 0 80 37 00
         E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
         E 0 90 28 3e
         E 0 90 34 3e
         E 0 90 37 3e
@@ -4984,18 +4922,69 @@
         E 0 80 34 00
         E 0 80 37 00
         E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
+        E 0 90 28 3e
+        E 0 90 34 3e
+        E 0 90 37 3e
+        E 0 90 3b 3e
+        E 1920 80 28 00
+        E 0 80 34 00
+        E 0 80 37 00
+        E 0 80 3b 00
         e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
         e 0 90 34 3e
         e 0 90 37 3e
         e 0 90 3b 3e
@@ -5003,9 +4992,6 @@
         e 0 80 34 00
         e 0 80 37 00
         e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
         e 0 90 28 3e
         e 0 90 34 3e
         e 0 90 37 3e
@@ -5014,44 +5000,22 @@
         e 0 80 34 00
         e 0 80 37 00
         e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 1200 90 29 3e
-        e 0 90 35 3e
-        e 0 90 38 3e
-        e 0 90 3c 3e
-        e 720 80 29 00
-        e 0 80 35 00
-        e 0 80 38 00
-        e 0 80 3c 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {86701602-6BF3-4166-942A-4718DCE8B3DA}
+        GUID {31E2CAA1-6640-400C-80E6-CFC5CA94F1FD}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1233
+        SRCCOLOR 1186
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.060184 64 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 570
+      POSITION 984
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5246,7 +5210,7 @@
       >
     >
     <ITEM
-      POSITION 594
+      POSITION 1008
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5459,7 +5423,7 @@
       >
     >
     <ITEM
-      POSITION 618
+      POSITION 1032
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5654,7 +5618,7 @@
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5867,7 +5831,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6062,7 +6026,7 @@
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6275,7 +6239,7 @@
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6470,7 +6434,7 @@
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6683,7 +6647,7 @@
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6878,7 +6842,7 @@
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9011,7 +8975,7 @@
       >
     >
     <ITEM
-      POSITION 570
+      POSITION 984
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9050,7 +9014,7 @@
       >
     >
     <ITEM
-      POSITION 594
+      POSITION 1008
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9089,7 +9053,7 @@
       >
     >
     <ITEM
-      POSITION 618
+      POSITION 1032
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9128,7 +9092,7 @@
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9167,7 +9131,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9206,7 +9170,7 @@
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9245,7 +9209,7 @@
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9284,7 +9248,7 @@
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9323,7 +9287,7 @@
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9362,7 +9326,7 @@
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9435,7 +9399,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -9509,7 +9473,7 @@
       WAK 0 0
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -9623,7 +9587,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -9737,7 +9701,7 @@
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 29.9999999999925
       LOOP 0
@@ -9839,7 +9803,7 @@
       >
     >
     <ITEM
-      POSITION 755.9999999999925
+      POSITION 1169.9999999999925
       SNAPOFFS 0
       LENGTH 24.0000000000075
       LOOP 0
@@ -9909,7 +9873,7 @@
       >
     >
     <ITEM
-      POSITION 823.5
+      POSITION 1237.5
       SNAPOFFS 0
       LENGTH 26.99999999999272
       LOOP 0
@@ -9989,7 +9953,7 @@
       >
     >
     <ITEM
-      POSITION 858
+      POSITION 1272
       SNAPOFFS 0
       LENGTH 15
       LOOP 0
@@ -13162,7 +13126,7 @@
       >
     >
     <ITEM
-      POSITION 510
+      POSITION 924
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13221,7 +13185,7 @@
       >
     >
     <ITEM
-      POSITION 522
+      POSITION 936
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13280,7 +13244,7 @@
       >
     >
     <ITEM
-      POSITION 534
+      POSITION 948
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13339,7 +13303,7 @@
       >
     >
     <ITEM
-      POSITION 546
+      POSITION 960
       SNAPOFFS 0
       LENGTH 12.0000000000075
       LOOP 0
@@ -13402,7 +13366,7 @@
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -13516,7 +13480,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -13630,7 +13594,7 @@
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 132
       LOOP 0
@@ -13984,7 +13948,7 @@
       >
     >
     <ITEM
-      POSITION 870
+      POSITION 1284
       SNAPOFFS 0
       LENGTH 24.00000000000728
       LOOP 0
@@ -14054,7 +14018,7 @@
       >
     >
     <ITEM
-      POSITION 897
+      POSITION 1311
       SNAPOFFS 0
       LENGTH 29.99999999999272
       LOOP 0
@@ -14156,7 +14120,7 @@
       >
     >
     <ITEM
-      POSITION 933
+      POSITION 1347
       SNAPOFFS 0
       LENGTH 45
       LOOP 0
@@ -20022,7 +19986,7 @@
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20150,7 +20114,7 @@
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20278,7 +20242,7 @@
       >
     >
     <ITEM
-      POSITION 654
+      POSITION 1068
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20406,7 +20370,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20534,7 +20498,7 @@
       >
     >
     <ITEM
-      POSITION 678
+      POSITION 1092
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20662,7 +20626,7 @@
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20790,7 +20754,7 @@
       >
     >
     <ITEM
-      POSITION 702
+      POSITION 1116
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20918,7 +20882,7 @@
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21046,7 +21010,7 @@
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21174,7 +21138,7 @@
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21302,7 +21266,7 @@
       >
     >
     <ITEM
-      POSITION 750
+      POSITION 1164
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -21384,7 +21348,7 @@
       >
     >
     <ITEM
-      POSITION 756
+      POSITION 1170
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21452,7 +21416,7 @@
       >
     >
     <ITEM
-      POSITION 759
+      POSITION 1173
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21516,7 +21480,7 @@
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21580,7 +21544,7 @@
       >
     >
     <ITEM
-      POSITION 765
+      POSITION 1179
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21644,7 +21608,7 @@
       >
     >
     <ITEM
-      POSITION 768
+      POSITION 1182
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21712,7 +21676,7 @@
       >
     >
     <ITEM
-      POSITION 771
+      POSITION 1185
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21776,7 +21740,7 @@
       >
     >
     <ITEM
-      POSITION 774
+      POSITION 1188
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21840,7 +21804,7 @@
       >
     >
     <ITEM
-      POSITION 777
+      POSITION 1191
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21904,7 +21868,7 @@
       >
     >
     <ITEM
-      POSITION 780
+      POSITION 1194
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21972,7 +21936,7 @@
       >
     >
     <ITEM
-      POSITION 783
+      POSITION 1197
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22036,7 +22000,7 @@
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22100,7 +22064,7 @@
       >
     >
     <ITEM
-      POSITION 789
+      POSITION 1203
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22164,7 +22128,7 @@
       >
     >
     <ITEM
-      POSITION 792
+      POSITION 1206
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22232,7 +22196,7 @@
       >
     >
     <ITEM
-      POSITION 795
+      POSITION 1209
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22296,7 +22260,7 @@
       >
     >
     <ITEM
-      POSITION 798
+      POSITION 1212
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22360,7 +22324,7 @@
       >
     >
     <ITEM
-      POSITION 801
+      POSITION 1215
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22424,7 +22388,7 @@
       >
     >
     <ITEM
-      POSITION 804
+      POSITION 1218
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22492,7 +22456,7 @@
       >
     >
     <ITEM
-      POSITION 807
+      POSITION 1221
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22556,7 +22520,7 @@
       >
     >
     <ITEM
-      POSITION 810
+      POSITION 1224
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22620,7 +22584,7 @@
       >
     >
     <ITEM
-      POSITION 813
+      POSITION 1227
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -24079,26 +24043,6 @@
       FLOATPOS 0 0 0 0
       FXID {F12A4924-D9C6-4246-9ACA-66218E1D7C61}
       WAK 0 0
-    >
-    <ITEM
-      POSITION 390
-      SNAPOFFS 0
-      LENGTH 48
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3F7E662B-1C2A-43B8-BDEF-1F60241C2EA4}
-      IID 1190
-      <NOTES
-        |--0--3--5--3--
-        |--0--0--0--0--
-        |--5--5--5--5--
-      >
-      IMGRESOURCEFLAGS 8
-      NOTESWND 31 130 530 527
     >
   >
   <TRACK {95DBA040-25C1-49B4-9179-2ED92879C4E6}
@@ -28545,7 +28489,7 @@
       >
     >
     <ITEM
-      POSITION 510
+      POSITION 924
       SNAPOFFS 0
       LENGTH 12.0000000000075
       LOOP 0
@@ -28590,9 +28534,9 @@
       >
     >
     <ITEM
-      POSITION 522.0000000000075
+      POSITION 936.0000000000075
       SNAPOFFS 0
-      LENGTH 12.00000000000716
+      LENGTH 12.00000000000728
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -28635,9 +28579,9 @@
       >
     >
     <ITEM
-      POSITION 534.00000000001467
+      POSITION 948.00000000001478
       SNAPOFFS 0
-      LENGTH 12.00000000000716
+      LENGTH 12.00000000000705
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -28680,7 +28624,7 @@
       >
     >
     <ITEM
-      POSITION 546.00000000002206
+      POSITION 960.00000000002206
       SNAPOFFS 0
       LENGTH 12.00000000000728
       LOOP 0
@@ -28725,7 +28669,7 @@
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -28789,7 +28733,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -28849,7 +28793,7 @@
       >
     >
     <ITEM
-      POSITION 753
+      POSITION 1167
       SNAPOFFS 0
       LENGTH 69.9359375
       LOOP 0
@@ -29162,7 +29106,7 @@
       >
     >
     <ITEM
-      POSITION 870
+      POSITION 1284
       SNAPOFFS 0
       LENGTH 24.00000000000728
       LOOP 0
@@ -29203,7 +29147,7 @@
       >
     >
     <ITEM
-      POSITION 897
+      POSITION 1311
       SNAPOFFS 0
       LENGTH 29.9999999999925
       LOOP 0

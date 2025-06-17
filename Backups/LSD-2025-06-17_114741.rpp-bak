@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.40/win64" 1750154463
+<REAPER_PROJECT 0.1 "7.40/win64" 1750153661
   <NOTES 0 2
   >
   RIPPLE 0 1
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 1.38469516383202 0 0
-  VZOOMEX 6 281
+  CURSOR 336
+  ZOOM 1.38469516383201 0 0
+  VZOOMEX 6 296
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -106,7 +106,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -1224,8 +1224,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
-    REC 1 5088 1 0 0 0 0 0
+    SEL 0
+    REC 0 5088 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -2998,8 +2998,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 5088 1 0 0 0 0 0
+    SEL 1
+    REC 1 5088 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -5051,7 +5051,7 @@
       >
     >
     <ITEM
-      POSITION 570
+      POSITION 984
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5246,7 +5246,7 @@
       >
     >
     <ITEM
-      POSITION 594
+      POSITION 1008
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5459,7 +5459,7 @@
       >
     >
     <ITEM
-      POSITION 618
+      POSITION 1032
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5654,7 +5654,7 @@
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5867,7 +5867,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6062,7 +6062,7 @@
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6275,7 +6275,7 @@
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6470,7 +6470,7 @@
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6683,7 +6683,7 @@
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6878,7 +6878,7 @@
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9011,7 +9011,7 @@
       >
     >
     <ITEM
-      POSITION 570
+      POSITION 984
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9050,7 +9050,7 @@
       >
     >
     <ITEM
-      POSITION 594
+      POSITION 1008
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9089,7 +9089,7 @@
       >
     >
     <ITEM
-      POSITION 618
+      POSITION 1032
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9128,7 +9128,7 @@
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9167,7 +9167,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9206,7 +9206,7 @@
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9245,7 +9245,7 @@
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9284,7 +9284,7 @@
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9323,7 +9323,7 @@
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9362,7 +9362,7 @@
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9435,7 +9435,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -9509,7 +9509,7 @@
       WAK 0 0
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -9623,7 +9623,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -9737,7 +9737,7 @@
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 29.9999999999925
       LOOP 0
@@ -9839,7 +9839,7 @@
       >
     >
     <ITEM
-      POSITION 755.9999999999925
+      POSITION 1169.9999999999925
       SNAPOFFS 0
       LENGTH 24.0000000000075
       LOOP 0
@@ -9909,7 +9909,7 @@
       >
     >
     <ITEM
-      POSITION 823.5
+      POSITION 1237.5
       SNAPOFFS 0
       LENGTH 26.99999999999272
       LOOP 0
@@ -9989,7 +9989,7 @@
       >
     >
     <ITEM
-      POSITION 858
+      POSITION 1272
       SNAPOFFS 0
       LENGTH 15
       LOOP 0
@@ -13162,7 +13162,7 @@
       >
     >
     <ITEM
-      POSITION 510
+      POSITION 924
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13221,7 +13221,7 @@
       >
     >
     <ITEM
-      POSITION 522
+      POSITION 936
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13280,7 +13280,7 @@
       >
     >
     <ITEM
-      POSITION 534
+      POSITION 948
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13339,7 +13339,7 @@
       >
     >
     <ITEM
-      POSITION 546
+      POSITION 960
       SNAPOFFS 0
       LENGTH 12.0000000000075
       LOOP 0
@@ -13402,7 +13402,7 @@
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -13516,7 +13516,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -13630,7 +13630,7 @@
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 132
       LOOP 0
@@ -13984,7 +13984,7 @@
       >
     >
     <ITEM
-      POSITION 870
+      POSITION 1284
       SNAPOFFS 0
       LENGTH 24.00000000000728
       LOOP 0
@@ -14054,7 +14054,7 @@
       >
     >
     <ITEM
-      POSITION 897
+      POSITION 1311
       SNAPOFFS 0
       LENGTH 29.99999999999272
       LOOP 0
@@ -14156,7 +14156,7 @@
       >
     >
     <ITEM
-      POSITION 933
+      POSITION 1347
       SNAPOFFS 0
       LENGTH 45
       LOOP 0
@@ -20022,7 +20022,7 @@
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20150,7 +20150,7 @@
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20278,7 +20278,7 @@
       >
     >
     <ITEM
-      POSITION 654
+      POSITION 1068
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20406,7 +20406,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20534,7 +20534,7 @@
       >
     >
     <ITEM
-      POSITION 678
+      POSITION 1092
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20662,7 +20662,7 @@
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20790,7 +20790,7 @@
       >
     >
     <ITEM
-      POSITION 702
+      POSITION 1116
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20918,7 +20918,7 @@
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21046,7 +21046,7 @@
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21174,7 +21174,7 @@
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21302,7 +21302,7 @@
       >
     >
     <ITEM
-      POSITION 750
+      POSITION 1164
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -21384,7 +21384,7 @@
       >
     >
     <ITEM
-      POSITION 756
+      POSITION 1170
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21452,7 +21452,7 @@
       >
     >
     <ITEM
-      POSITION 759
+      POSITION 1173
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21516,7 +21516,7 @@
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21580,7 +21580,7 @@
       >
     >
     <ITEM
-      POSITION 765
+      POSITION 1179
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21644,7 +21644,7 @@
       >
     >
     <ITEM
-      POSITION 768
+      POSITION 1182
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21712,7 +21712,7 @@
       >
     >
     <ITEM
-      POSITION 771
+      POSITION 1185
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21776,7 +21776,7 @@
       >
     >
     <ITEM
-      POSITION 774
+      POSITION 1188
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21840,7 +21840,7 @@
       >
     >
     <ITEM
-      POSITION 777
+      POSITION 1191
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21904,7 +21904,7 @@
       >
     >
     <ITEM
-      POSITION 780
+      POSITION 1194
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21972,7 +21972,7 @@
       >
     >
     <ITEM
-      POSITION 783
+      POSITION 1197
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22036,7 +22036,7 @@
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22100,7 +22100,7 @@
       >
     >
     <ITEM
-      POSITION 789
+      POSITION 1203
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22164,7 +22164,7 @@
       >
     >
     <ITEM
-      POSITION 792
+      POSITION 1206
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22232,7 +22232,7 @@
       >
     >
     <ITEM
-      POSITION 795
+      POSITION 1209
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22296,7 +22296,7 @@
       >
     >
     <ITEM
-      POSITION 798
+      POSITION 1212
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22360,7 +22360,7 @@
       >
     >
     <ITEM
-      POSITION 801
+      POSITION 1215
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22424,7 +22424,7 @@
       >
     >
     <ITEM
-      POSITION 804
+      POSITION 1218
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22492,7 +22492,7 @@
       >
     >
     <ITEM
-      POSITION 807
+      POSITION 1221
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22556,7 +22556,7 @@
       >
     >
     <ITEM
-      POSITION 810
+      POSITION 1224
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22620,7 +22620,7 @@
       >
     >
     <ITEM
-      POSITION 813
+      POSITION 1227
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -24079,26 +24079,6 @@
       FLOATPOS 0 0 0 0
       FXID {F12A4924-D9C6-4246-9ACA-66218E1D7C61}
       WAK 0 0
-    >
-    <ITEM
-      POSITION 390
-      SNAPOFFS 0
-      LENGTH 48
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3F7E662B-1C2A-43B8-BDEF-1F60241C2EA4}
-      IID 1190
-      <NOTES
-        |--0--3--5--3--
-        |--0--0--0--0--
-        |--5--5--5--5--
-      >
-      IMGRESOURCEFLAGS 8
-      NOTESWND 31 130 530 527
     >
   >
   <TRACK {95DBA040-25C1-49B4-9179-2ED92879C4E6}
@@ -28545,7 +28525,7 @@
       >
     >
     <ITEM
-      POSITION 510
+      POSITION 924
       SNAPOFFS 0
       LENGTH 12.0000000000075
       LOOP 0
@@ -28590,9 +28570,9 @@
       >
     >
     <ITEM
-      POSITION 522.0000000000075
+      POSITION 936.0000000000075
       SNAPOFFS 0
-      LENGTH 12.00000000000716
+      LENGTH 12.00000000000728
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -28635,9 +28615,9 @@
       >
     >
     <ITEM
-      POSITION 534.00000000001467
+      POSITION 948.00000000001478
       SNAPOFFS 0
-      LENGTH 12.00000000000716
+      LENGTH 12.00000000000705
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -28680,7 +28660,7 @@
       >
     >
     <ITEM
-      POSITION 546.00000000002206
+      POSITION 960.00000000002206
       SNAPOFFS 0
       LENGTH 12.00000000000728
       LOOP 0
@@ -28725,7 +28705,7 @@
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -28789,7 +28769,7 @@
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -28849,7 +28829,7 @@
       >
     >
     <ITEM
-      POSITION 753
+      POSITION 1167
       SNAPOFFS 0
       LENGTH 69.9359375
       LOOP 0
@@ -29162,7 +29142,7 @@
       >
     >
     <ITEM
-      POSITION 870
+      POSITION 1284
       SNAPOFFS 0
       LENGTH 24.00000000000728
       LOOP 0
@@ -29203,7 +29183,7 @@
       >
     >
     <ITEM
-      POSITION 897
+      POSITION 1311
       SNAPOFFS 0
       LENGTH 29.9999999999925
       LOOP 0

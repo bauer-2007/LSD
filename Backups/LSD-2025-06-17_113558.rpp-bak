@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.40/win64" 1750154463
+<REAPER_PROJECT 0.1 "7.40/win64" 1750152958
   <NOTES 0 2
   >
   RIPPLE 0 1
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 1.38469516383202 0 0
-  VZOOMEX 6 281
+  CURSOR 66
+  ZOOM 11.79597426674515 442 0
+  VZOOMEX 6 296
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -67,8 +67,8 @@
   GLOBAL_AUTO -1
   TEMPO 80 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 207 207
-  SELECTION2 207 207
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -106,7 +106,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -1224,8 +1224,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
-    REC 1 5088 1 0 0 0 0 0
+    SEL 0
+    REC 0 5088 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -3256,7 +3256,7 @@
         CFGEDITVIEW 13670.746667 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -3451,7 +3451,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -3646,7 +3646,7 @@
         CFGEDITVIEW 29360.36187 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -3841,7 +3841,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -4036,7 +4036,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -4231,7 +4231,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -4426,7 +4426,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -4621,437 +4621,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 192
-      SNAPOFFS 0
-      LENGTH 24
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DD2CA3AF-31C3-4743-8A14-3C9C600CEBCE}
-      IID 1140
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {420855DD-DD60-44A2-8FDA-0FFAAED1CA42}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {EC97138B-6489-45F7-A914-47CEB948FAD9}
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 1200 90 29 3e
-        e 0 90 35 3e
-        e 0 90 38 3e
-        e 0 90 3c 3e
-        e 720 80 29 00
-        e 0 80 35 00
-        e 0 80 38 00
-        e 0 80 3c 00
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {7CE79651-70FD-423E-92C4-D29A87B3B936}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1185
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW -7082.000365 0.060184 64 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 216
-      SNAPOFFS 0
-      LENGTH 24
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {09028E4D-FDEC-4A89-AD31-0393F2D87F71}
-      IID 1188
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C4571F8C-5436-4460-B753-580A9B140D73}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {523B0EC9-D1FE-49BF-B74B-460F2DDFBCAB}
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 90 28 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 0 90 34 3e
-        E 0 90 37 3e
-        E 0 90 3b 3e
-        E 1920 80 28 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 0 80 34 00
-        E 0 80 37 00
-        E 0 80 3b 00
-        E 1200 90 29 3e
-        E 0 90 35 3e
-        E 0 90 38 3e
-        E 0 90 3c 3e
-        E 720 80 29 00
-        E 0 80 35 00
-        E 0 80 38 00
-        E 0 80 3c 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 90 28 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 0 90 34 3e
-        e 0 90 37 3e
-        e 0 90 3b 3e
-        e 1920 80 28 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 0 80 34 00
-        e 0 80 37 00
-        e 0 80 3b 00
-        e 1200 90 29 3e
-        e 0 90 35 3e
-        e 0 90 38 3e
-        e 0 90 3c 3e
-        e 720 80 29 00
-        e 0 80 35 00
-        e 0 80 38 00
-        e 0 80 3c 00
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {86701602-6BF3-4166-942A-4718DCE8B3DA}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1233
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.060184 64 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 570
+      POSITION 984
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5242,11 +4816,11 @@
         CFGEDITVIEW 29360.36187 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 594
+      POSITION 1008
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5455,11 +5029,11 @@
         CFGEDITVIEW -1359.63813 0.033494 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 618
+      POSITION 1032
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5650,11 +5224,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -5863,11 +5437,11 @@
         CFGEDITVIEW 0 0.033494 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6058,11 +5632,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6271,11 +5845,11 @@
         CFGEDITVIEW 0 0.033494 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6466,11 +6040,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6679,11 +6253,11 @@
         CFGEDITVIEW 0 0.033494 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -6874,11 +6448,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -7087,7 +6661,7 @@
         CFGEDITVIEW 0 0.033494 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
   >
@@ -7720,7 +7294,7 @@
         CFGEDITVIEW 29360.36187 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7759,7 +7333,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7798,7 +7372,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7837,7 +7411,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7876,7 +7450,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7915,7 +7489,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7954,7 +7528,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -7993,7 +7567,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -8032,7 +7606,7 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -8071,947 +7645,89 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
       POSITION 144
       SNAPOFFS 0
-      LENGTH 6
+      LENGTH 24
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F0CB0B58-F655-4C88-960D-02FF2000BF26}
-      IID 1098
+      IGUID {939D5F67-002C-4BCD-AAEF-DC42F72CF7CD}
+      IID 542
       NAME 06-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {BDB55067-5EA7-43AD-9AC9-5D21260EECAC}
+      GUID {F2CC2228-AA27-495B-B0BF-00FFECF54FDE}
       RECPASS 3
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {CA8D25E2-91A6-442A-A12C-9E369AD1368B}
+        POOLEDEVTS {1F434E11-A607-4643-80F5-D7D66D780FD3}
         e 0 90 28 3e
-        e 7680 80 28 3e
+        e 30720 80 28 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {F42E71E9-A23D-41AB-8AD9-8B50F61F7CD2}
+        GUID {37EF7116-F4C2-4E13-8FC5-33649FACF658}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1143
+        SRCCOLOR 585
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE -1 100 0 0 1
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 150
-      SNAPOFFS 0
-      LENGTH 6
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9813A96B-BADF-43E4-9139-2CDAB73006F0}
-      IID 1099
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {81B9C283-C06A-4785-BE9F-21173FE4E4D3}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {0E630B77-E3EF-41BA-997F-5AB4A25F4A2D}
-        e 0 90 2d 3e
-        e 7680 80 2d 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {6C8D99ED-18AD-43D5-8F05-8DFFF7575BEC}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1144
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 156
-      SNAPOFFS 0
-      LENGTH 6
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E44848D6-3787-4C85-BF35-5192DBEA2677}
-      IID 1100
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DA68CDC8-CF59-4DF7-AAA7-DED74F7EDAF1}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {8A889717-6D24-4BA2-B96B-14454EAA52B3}
-        e 0 90 28 3e
-        e 7680 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {1E9A5809-B014-482C-917A-90936E69FADA}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1145
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 162
-      SNAPOFFS 0
-      LENGTH 6
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {513F2F01-2FEF-4011-968B-BBB21F8E7ACB}
-      IID 1101
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DBF95F77-A859-46F0-B259-3771021E8BEA}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {3F659AD1-7310-4E71-B137-81CBA7B404B9}
-        e 0 90 2d 3e
-        e 7680 80 2d 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {4D6F388E-3F6A-4B5C-806A-E23ED493ED94}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1146
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
       POSITION 168
       SNAPOFFS 0
-      LENGTH 6
+      LENGTH 24
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4AEA700F-17F6-4BF8-B915-FE6A79EE4DAB}
-      IID 1102
+      IGUID {50F8F9B0-6DA4-47A5-95AF-7C229B0A4F9C}
+      IID 544
       NAME 06-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {843CBA6B-4DFC-47B6-8DC1-86D6EDDD53A0}
+      GUID {DE8B390F-9C5B-4173-A122-C8BB5899E1ED}
       RECPASS 3
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {FFFA573F-E18C-4BC9-96D2-F61B6E97D591}
+        POOLEDEVTS {B83213F5-E50C-44CB-82B7-6B02B28BFAE1}
         e 0 90 28 3e
-        e 7680 80 28 3e
+        e 30720 80 28 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {600EE20D-CF19-481B-B47C-204658685B1D}
+        GUID {55705F4A-9A45-4E2B-916C-DFA60B748B76}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1147
+        SRCCOLOR 587
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE -1 100 0 0 1
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 174
-      SNAPOFFS 0
-      LENGTH 6
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1A2CBA57-985F-431D-A69C-71BC93A503EC}
-      IID 1103
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3DBFBF2B-34EC-465F-BE47-988592709DE5}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {0487E9BC-40CE-4EAD-8B39-C8EE3A13FBA1}
-        e 0 90 2d 3e
-        e 7680 80 2d 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {0E97D33B-B6B8-46D4-B4FB-DF5E911727F7}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1148
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 180
-      SNAPOFFS 0
-      LENGTH 6
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0B82AD4E-41A1-4AF2-8B15-52639262DC39}
-      IID 1104
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ACA736A9-EA35-4D9F-A520-B2C2B651E067}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {A271A7C9-77EC-4546-9BFE-3D60D16BE68F}
-        e 0 90 28 3e
-        e 7680 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {7A354B86-ED80-4A7F-A14D-045BDCE67391}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1149
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 186
-      SNAPOFFS 0
-      LENGTH 6
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {36E30179-7536-4CB3-AE13-FED2DAC203CA}
-      IID 1105
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8F53CBC6-983C-4DA3-8C13-E97BB4E5D751}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {0FAECE84-3E3D-4231-8852-6E425034F459}
-        e 0 90 2d 3e
-        e 7680 80 2d 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {7BDC6753-9571-418F-A836-F67E512D9741}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1150
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 192
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {27EEF6C6-5B82-4471-B6A3-46606DD65AFE}
-      IID 1142
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F0F5063E-292A-44BD-B925-C65C8971CCBF}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {9CEAF9A6-C086-4169-B93C-525CA306131A}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {42ABCC8B-24CC-4A33-8AE5-4A2C11EC2545}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1187
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 196.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B435B4BD-1BE5-4A00-8C1F-D9737D3C5A32}
-      IID 1142
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {29C51F4C-C957-4D01-85F5-4C01BB451515}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {325C56AA-2F85-444B-9A5E-6011007BF9AD}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {007B9FEA-5ADF-44B7-B24B-DD0AC60DED1F}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1202
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 198
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DC7B9694-F3CC-4177-866D-3A8A47B443D5}
-      IID 1158
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D4B3CD8F-96AF-45DB-A650-54BB233752C2}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {690F698E-0844-42AC-84AA-BC5D63EBF951}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {A3ABF450-2CDC-44A6-8B22-BA8C55E6152B}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1203
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 202.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5300E61A-CE30-4C49-B5DE-CF9807423B94}
-      IID 1159
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9CC416A9-841F-4908-ACA4-7BD71B88F21C}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {0A438B91-C6CC-477F-8334-C31F317813BA}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {9C3CD9B2-23AA-4485-B1D4-5717776B0FE1}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1204
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 204
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3A9776C8-658E-4D34-9008-D9FF1FACD804}
-      IID 1164
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1428578E-1732-4DEC-9B54-BAB26B6685C4}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {FAB4533F-19E0-4634-823F-345432B9CFAF}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {6C983CD4-366A-43F2-8DAA-9339603D2398}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1209
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 208.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D10CF54B-1706-4F47-97F1-0721FBA049BE}
-      IID 1165
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9B9CB1B3-C160-4DE7-B5B5-133F75BD0F5E}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {3F63C536-177C-4FC9-9467-E47B2DA91E91}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {4B43CF64-41EB-4F8F-9A6D-2B54F6740A0B}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1210
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 210
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9F370113-F9D3-4781-97B6-E77A8B51E2D5}
-      IID 1166
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C8A0871C-786E-476D-A72F-52EB502B7376}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {D9246115-91DE-4FEF-8F41-2739025C6AEE}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {7D2F84AF-07E0-48AB-B03A-95902B78887D}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1211
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 214.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FADD84E4-0479-4644-ADB7-80F14F5C98AC}
-      IID 1167
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7ACAC34E-61E2-4E21-A21B-7CF3453CD523}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {B51D90F4-E7A3-4A2D-849A-1C998EEAA9DA}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {ACA74E99-A863-4AD7-A0C1-C4F63B49FF67}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1212
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 216
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {537DD6AB-1B5C-49DA-98A9-CEEE3F431981}
-      IID 1172
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7676D0E7-E57C-40FE-964F-0570C758F1B5}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {D93410E9-9114-4DEB-9407-F11FD5C2317B}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {E90D85E6-F640-42E8-8E06-7C8C916A5422}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1217
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 220.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0FED13A3-C67A-4E84-A6A3-84D96D7EBE25}
-      IID 1173
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {122D2D67-0DC1-4F0D-A66E-6205D29643C2}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {8F1AD5A0-AADD-4A01-9086-E1A009025D96}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {EE699653-534F-4ED8-A901-0BB83A3905DE}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1218
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 222
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {287302D5-B6E0-4256-BEE9-46B15F8C72A1}
-      IID 1174
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {861D882A-2182-4304-829D-3A7D090D651A}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {D8CE4DC1-3540-42FA-A1F5-33FDCFDA4D66}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {7C82F003-EA09-41A3-987A-44DF1C75073C}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1219
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 226.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5601C63E-65BC-4400-ACC6-9E72E7914DCB}
-      IID 1175
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {47B0F29C-084B-4E4B-8ADF-E17947B6A379}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {B71A9E1C-75F3-483B-8808-AABDCB36B0AA}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {C5C6EE79-8A13-4858-8B95-1AFD102C50EE}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1220
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 228
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {21B294F7-7866-4301-BD25-9C9ACC75A363}
-      IID 1180
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AA6B0724-19D9-49E0-9E86-A4E7B9D21B71}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {20D2556E-07FB-4A23-8B3F-D3EAE4FAC3BE}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {A447EDDD-ABCC-4A2D-9A69-BCA8B324F266}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1225
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 232.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1A28A90F-7246-4B29-A77B-68EB9472E4E5}
-      IID 1181
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F6140A65-A829-464E-9D41-2273BD6932EF}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {2FA3915A-5734-495B-939E-DC623A4038BA}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {FEAB0D64-424B-49D8-8F59-CEA6766C74CE}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1226
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 234
-      SNAPOFFS 0
-      LENGTH 4.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2471D799-48C4-4774-BE48-97D8A54FDF72}
-      IID 1182
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9DC8C484-E452-4F17-B06F-0048E2CDB1C4}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {B23281AD-F03D-4A9E-B94F-F0A13E84CCD1}
-        e 0 90 28 3e
-        e 5760 80 28 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {426967FF-86BC-4762-AD91-6835ABC76406}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1227
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 238.5
-      SNAPOFFS 0
-      LENGTH 1.5
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3D48FC5A-19F2-41B0-890A-D60486196997}
-      IID 1183
-      NAME 06-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {30E4BE71-C28B-442D-AF4E-8E33728A8878}
-      RECPASS 3
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {0B610E77-95DC-4603-9E4D-8385063EA241}
-        e 0 90 29 3e
-        e 1920 80 29 3e
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {BF8E6D6D-8EC9-4533-B23A-F54F392046FB}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1228
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 570
+      POSITION 984
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9046,11 +7762,11 @@
         CFGEDITVIEW 29360.36187 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 594
+      POSITION 1008
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9085,11 +7801,11 @@
         CFGEDITVIEW -1359.63813 0.033494 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 618
+      POSITION 1032
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9124,11 +7840,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9163,11 +7879,11 @@
         CFGEDITVIEW 0 0.033494 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9202,11 +7918,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9241,11 +7957,11 @@
         CFGEDITVIEW 0 0.033494 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9280,11 +7996,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9319,11 +8035,11 @@
         CFGEDITVIEW 0 0.033494 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9358,11 +8074,11 @@
         CFGEDITVIEW 0 0.033494 61 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -9397,7 +8113,7 @@
         CFGEDITVIEW 0 0.033494 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
   >
@@ -9435,7 +8151,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -9509,7 +8225,7 @@
       WAK 0 0
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -9619,11 +8335,11 @@
         CFGEDITVIEW 29721.641168 0.067011 49 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -9733,11 +8449,11 @@
         CFGEDITVIEW -11797.441313 0.022453 55 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 29.9999999999925
       LOOP 0
@@ -9835,11 +8551,11 @@
         CFGEDITVIEW 1201.924865 0.037294 52 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 755.9999999999925
+      POSITION 1169.9999999999925
       SNAPOFFS 0
       LENGTH 24.0000000000075
       LOOP 0
@@ -9905,11 +8621,11 @@
         CFGEDITVIEW -921.6 0.046617 44 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 823.5
+      POSITION 1237.5
       SNAPOFFS 0
       LENGTH 26.99999999999272
       LOOP 0
@@ -9985,11 +8701,11 @@
         CFGEDITVIEW -106292.867592 0.008035 44 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 858
+      POSITION 1272
       SNAPOFFS 0
       LENGTH 15
       LOOP 0
@@ -10794,7 +9510,7 @@
         CFGEDITVIEW -17779.088893 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -10836,7 +9552,7 @@
         CFGEDITVIEW -21619.088893 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -10878,7 +9594,7 @@
         CFGEDITVIEW -2954.64877 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -10920,7 +9636,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -10962,7 +9678,7 @@
         CFGEDITVIEW 0 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11004,7 +9720,7 @@
         CFGEDITVIEW 0 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11046,7 +9762,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11088,7 +9804,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11130,7 +9846,7 @@
         CFGEDITVIEW 0 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11172,7 +9888,7 @@
         CFGEDITVIEW 0 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11214,7 +9930,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11256,7 +9972,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11298,7 +10014,7 @@
         CFGEDITVIEW 0 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11340,7 +10056,7 @@
         CFGEDITVIEW 0 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11382,7 +10098,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11424,7 +10140,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11472,7 +10188,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11520,7 +10236,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11562,7 +10278,7 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11604,7 +10320,7 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11646,7 +10362,7 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11688,7 +10404,7 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11730,7 +10446,7 @@
         CFGEDITVIEW -17779.088893 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11772,7 +10488,7 @@
         CFGEDITVIEW -21619.088893 0.008617 41 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11814,7 +10530,7 @@
         CFGEDITVIEW -2954.64877 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11856,7 +10572,7 @@
         CFGEDITVIEW 0 0.037293 36 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11904,7 +10620,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -11952,7 +10668,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -12000,7 +10716,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -12048,7 +10764,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -12096,7 +10812,7 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -12144,11 +10860,11 @@
         CFGEDITVIEW 0 0.037293 40 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 192
+      POSITION 288
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -12169,19 +10885,19 @@
         HASDATA 1 960 QN
         CCINTERP 32
         POOLEDEVTS {DAEA67AC-3FD7-4865-813C-5E120B3B18D9}
-        E 0 90 43 37
+        e 0 90 43 37
         E 0 90 47 37
         E 0 90 4a 37
-        E 5760 80 43 00
+        e 5760 80 43 00
         E 0 80 47 00
         E 0 80 4a 00
         E 0 90 4b 37
         E 0 90 48 37
-        e 0 90 41 37
+        E 0 90 41 37
         E 0 90 44 37
         E 1920 80 4b 00
         E 0 80 48 00
-        e 0 80 41 00
+        E 0 80 41 00
         E 0 80 44 00
         E 0 90 43 37
         E 0 90 47 37
@@ -12208,11 +10924,11 @@
         CFGEDITVIEW 0 0.015483 44 12 0 -1 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 204
+      POSITION 300
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -12275,11 +10991,11 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 216
+      POSITION 312
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -12328,11 +11044,11 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 222
+      POSITION 318
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -12382,11 +11098,11 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 228
+      POSITION 324
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -12436,11 +11152,11 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 234
+      POSITION 330
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -12490,11 +11206,11 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 240
+      POSITION 336
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -12552,11 +11268,11 @@
         CFGEDITVIEW -921.6 0.046617 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 264
+      POSITION 360
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -12614,11 +11330,11 @@
         CFGEDITVIEW 0 0.046617 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 288
+      POSITION 384
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -12676,11 +11392,11 @@
         CFGEDITVIEW 0 0.046617 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 312
+      POSITION 408
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -12738,11 +11454,11 @@
         CFGEDITVIEW 0 0.046617 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 336
+      POSITION 432
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -12798,11 +11514,11 @@
         CFGEDITVIEW 0 0.046617 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 342
+      POSITION 438
       SNAPOFFS 0
       LENGTH 48
       LOOP 0
@@ -12978,11 +11694,11 @@
         CFGEDITVIEW 0 0.005384 31 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 390
+      POSITION 486
       SNAPOFFS 0
       LENGTH 48
       LOOP 0
@@ -13158,11 +11874,11 @@
         CFGEDITVIEW 0 0.005384 31 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 510
+      POSITION 924
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13217,11 +11933,11 @@
         CFGEDITVIEW -26666.990719 0.017623 44 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 522
+      POSITION 936
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13276,11 +11992,11 @@
         CFGEDITVIEW 0 0.017623 44 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 534
+      POSITION 948
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -13335,11 +12051,11 @@
         CFGEDITVIEW 0 0.017623 44 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 546
+      POSITION 960
       SNAPOFFS 0
       LENGTH 12.0000000000075
       LOOP 0
@@ -13398,11 +12114,11 @@
         CFGEDITVIEW -8795.324292 0.017623 44 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -13512,11 +12228,11 @@
         CFGEDITVIEW 0 0.015483 64 12 0 3 47 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -13626,11 +12342,11 @@
         CFGEDITVIEW 112580.012181 0.017382 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 132
       LOOP 0
@@ -13980,11 +12696,11 @@
         CFGEDITVIEW 1018.100061 0.017383 31 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 870
+      POSITION 1284
       SNAPOFFS 0
       LENGTH 24.00000000000728
       LOOP 0
@@ -14050,11 +12766,11 @@
         CFGEDITVIEW -44859.987819 0.017382 26 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 897
+      POSITION 1311
       SNAPOFFS 0
       LENGTH 29.99999999999272
       LOOP 0
@@ -14152,11 +12868,11 @@
         CFGEDITVIEW -122880 0.006428 49 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 933
+      POSITION 1347
       SNAPOFFS 0
       LENGTH 45
       LOOP 0
@@ -14284,7 +13000,7 @@
         CFGEDITVIEW -10008.778709 0.015483 45 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
   >
@@ -14302,8 +13018,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 5088 1 0 0 0 0 0
+    SEL 1
+    REC 1 5088 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -14602,7 +13318,7 @@
         CFGEDITVIEW 13010.258749 0.325575 62 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -14734,7 +13450,7 @@
         CFGEDITVIEW -7305.773343 0.05612 56 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -14862,7 +13578,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -14990,7 +13706,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15118,7 +13834,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15246,7 +13962,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15374,7 +14090,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15502,7 +14218,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15630,7 +14346,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15758,7 +14474,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -15886,7 +14602,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -16014,7 +14730,7 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -16142,11 +14858,11 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 192
+      POSITION 288
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -16270,11 +14986,11 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 204
+      POSITION 300
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -16398,11 +15114,11 @@
         CFGEDITVIEW 12590.688974 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 216
+      POSITION 312
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -16526,11 +15242,11 @@
         CFGEDITVIEW -2769.311026 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 228
+      POSITION 324
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -16654,11 +15370,11 @@
         CFGEDITVIEW -18129.311026 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 240
+      POSITION 336
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -16782,11 +15498,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 252
+      POSITION 348
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -16910,11 +15626,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 264
+      POSITION 360
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -17038,11 +15754,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 276
+      POSITION 372
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -17166,11 +15882,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 288
+      POSITION 384
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -17294,11 +16010,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 300
+      POSITION 396
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -17422,11 +16138,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 312
+      POSITION 408
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -17550,11 +16266,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 324
+      POSITION 420
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -17614,11 +16330,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 327
+      POSITION 423
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -17678,11 +16394,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 330
+      POSITION 426
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -17742,11 +16458,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 333
+      POSITION 429
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -17806,11 +16522,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 336
+      POSITION 432
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -17870,11 +16586,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 339
+      POSITION 435
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -17938,11 +16654,11 @@
         CFGEDITVIEW -14885.195327 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 342
+      POSITION 438
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18002,11 +16718,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 345
+      POSITION 441
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18066,11 +16782,11 @@
         CFGEDITVIEW -3840 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 348
+      POSITION 444
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18130,11 +16846,11 @@
         CFGEDITVIEW -7680 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 351
+      POSITION 447
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18198,11 +16914,11 @@
         CFGEDITVIEW -11520 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 354
+      POSITION 450
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18262,11 +16978,11 @@
         CFGEDITVIEW -15360 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 357
+      POSITION 453
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18326,11 +17042,11 @@
         CFGEDITVIEW -19200 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 360
+      POSITION 456
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18390,11 +17106,11 @@
         CFGEDITVIEW -23040 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 363
+      POSITION 459
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18458,11 +17174,11 @@
         CFGEDITVIEW -26880 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 366
+      POSITION 462
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18522,11 +17238,11 @@
         CFGEDITVIEW -30720 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 369
+      POSITION 465
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18586,11 +17302,11 @@
         CFGEDITVIEW -34560 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 372
+      POSITION 468
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18650,11 +17366,11 @@
         CFGEDITVIEW -38400 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 375
+      POSITION 471
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18718,11 +17434,11 @@
         CFGEDITVIEW -42240 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 378
+      POSITION 474
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18782,11 +17498,11 @@
         CFGEDITVIEW -46080 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 381
+      POSITION 477
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18846,11 +17562,11 @@
         CFGEDITVIEW -49920 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 384
+      POSITION 480
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18910,11 +17626,11 @@
         CFGEDITVIEW -53760 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 387
+      POSITION 483
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -18978,11 +17694,11 @@
         CFGEDITVIEW -57600 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 390
+      POSITION 486
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19042,11 +17758,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 393
+      POSITION 489
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19106,11 +17822,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 396
+      POSITION 492
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19170,11 +17886,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 399
+      POSITION 495
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19238,11 +17954,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 402
+      POSITION 498
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19302,11 +18018,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 405
+      POSITION 501
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19366,11 +18082,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 408
+      POSITION 504
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19430,11 +18146,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 411
+      POSITION 507
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19498,11 +18214,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 414
+      POSITION 510
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19562,11 +18278,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 417
+      POSITION 513
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19626,11 +18342,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 420
+      POSITION 516
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19690,11 +18406,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 423
+      POSITION 519
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19758,11 +18474,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 426
+      POSITION 522
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19822,11 +18538,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 429
+      POSITION 525
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19886,11 +18602,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 432
+      POSITION 528
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -19950,11 +18666,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 435
+      POSITION 531
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -20018,11 +18734,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20146,11 +18862,11 @@
         CFGEDITVIEW 0 0.05612 53 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 642
+      POSITION 1056
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20274,11 +18990,11 @@
         CFGEDITVIEW 12590.688974 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 654
+      POSITION 1068
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20402,11 +19118,11 @@
         CFGEDITVIEW -2769.311026 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20530,11 +19246,11 @@
         CFGEDITVIEW -18129.311026 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 678
+      POSITION 1092
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20658,11 +19374,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 690
+      POSITION 1104
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20786,11 +19502,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 702
+      POSITION 1116
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -20914,11 +19630,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 714
+      POSITION 1128
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21042,11 +19758,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 726
+      POSITION 1140
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21170,11 +19886,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 738
+      POSITION 1152
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -21298,11 +20014,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 750
+      POSITION 1164
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -21380,11 +20096,11 @@
         CFGEDITVIEW 0 0.041866 65 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 756
+      POSITION 1170
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21448,11 +20164,11 @@
         CFGEDITVIEW -14885.195327 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 759
+      POSITION 1173
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21512,11 +20228,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 762
+      POSITION 1176
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21576,11 +20292,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 765
+      POSITION 1179
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21640,11 +20356,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 768
+      POSITION 1182
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21708,11 +20424,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 771
+      POSITION 1185
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21772,11 +20488,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 774
+      POSITION 1188
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21836,11 +20552,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 777
+      POSITION 1191
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21900,11 +20616,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 780
+      POSITION 1194
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -21968,11 +20684,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 783
+      POSITION 1197
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22032,11 +20748,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 786
+      POSITION 1200
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22096,11 +20812,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 789
+      POSITION 1203
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22160,11 +20876,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 792
+      POSITION 1206
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22228,11 +20944,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 795
+      POSITION 1209
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22292,11 +21008,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 798
+      POSITION 1212
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22356,11 +21072,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 801
+      POSITION 1215
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22420,11 +21136,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 804
+      POSITION 1218
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22488,11 +21204,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 807
+      POSITION 1221
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22552,11 +21268,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 810
+      POSITION 1224
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22616,11 +21332,11 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 813
+      POSITION 1227
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -22680,7 +21396,7 @@
         CFGEDITVIEW 0 0.041866 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
   >
@@ -24079,26 +22795,6 @@
       FLOATPOS 0 0 0 0
       FXID {F12A4924-D9C6-4246-9ACA-66218E1D7C61}
       WAK 0 0
-    >
-    <ITEM
-      POSITION 390
-      SNAPOFFS 0
-      LENGTH 48
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3F7E662B-1C2A-43B8-BDEF-1F60241C2EA4}
-      IID 1190
-      <NOTES
-        |--0--3--5--3--
-        |--0--0--0--0--
-        |--5--5--5--5--
-      >
-      IMGRESOURCEFLAGS 8
-      NOTESWND 31 130 530 527
     >
   >
   <TRACK {95DBA040-25C1-49B4-9179-2ED92879C4E6}
@@ -25692,7 +24388,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -25730,7 +24426,7 @@
         CFGEDITVIEW -3840 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -25768,7 +24464,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -25839,7 +24535,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -25877,7 +24573,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26179,7 +24875,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26250,7 +24946,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26288,7 +24984,7 @@
         CFGEDITVIEW -3840 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26326,7 +25022,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26397,7 +25093,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26435,7 +25131,7 @@
         CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26448,32 +25144,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {14A84935-F67F-44A5-88B0-10372BA8D166}
-      IID 1124
+      IGUID {A9E85A72-D2FE-4867-A244-0D19D4836F74}
+      IID 523
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C171BB12-DAC3-4419-9EAE-EB9CE04AFD43}
+      GUID {ED512826-4183-4D55-9587-BA65ADE3F8A4}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {4C802754-7296-4316-9590-B62311D25883}
-        e 0 90 1c 37
-        e 3840 80 1c 37
+        POOLEDEVTS {418E245F-0159-4375-A236-4F746D536A1E}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {876CB04D-79E6-48FC-B5D4-1F8C75320CA6}
+        GUID {253B21C1-3BE2-47D5-B2A5-355486186299}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1169
+        SRCCOLOR 566
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26486,26 +25177,26 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B596ECBF-502E-4E8C-9828-1C4080EA3E05}
-      IID 1125
+      IGUID {093D394E-2D48-4DFD-AFB0-A5191B20B2EE}
+      IID 524
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C8DDFAF5-642D-4C55-9DEA-79E5C11DF069}
+      GUID {95F52611-6F34-45D4-8C0F-CD8979AF0BAE}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {ED650428-BF09-4544-808D-9236BBF73311}
+        POOLEDEVTS {74C1D047-ACED-4860-AFB9-037B053D020E}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {A1B81F64-914C-4ADA-A1CC-E83EE6FE40E1}
+        GUID {F8E253C9-BB71-4D06-B454-35D43D55EC7F}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1170
+        SRCCOLOR 567
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
@@ -26519,32 +25210,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F399C82A-4EF0-4992-80C3-7CE6EC98F230}
-      IID 1126
+      IGUID {C8DB2FF0-AECA-4EF7-ACC9-4C498E9933EF}
+      IID 525
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {5C5BABF4-DBBD-4977-8357-E4B1B58E2F2F}
+      GUID {F177E831-5A5D-45BE-8B23-DAF2895B3E98}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {22915022-F943-4769-AAAC-2A021B98C78D}
-        E 0 90 21 37
-        E 3840 80 21 37
+        POOLEDEVTS {58EA8EE1-F6B2-464E-8327-A9880EE9A8CD}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {CB419F39-63B9-48EF-A385-3E634888EB9C}
+        GUID {10C4B335-BDA8-4BF2-935B-5A0949CC8185}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1171
+        SRCCOLOR 568
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26557,32 +25243,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F38C7291-35BF-43D2-BF06-ED2C30C8F893}
-      IID 1127
+      IGUID {26601A10-B39D-40B7-B415-B90500302D90}
+      IID 526
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4264A8E1-581D-477D-BF11-078BE4D1AB6C}
+      GUID {E7C91E9F-156E-4D12-8FCB-10A34B13EFCB}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {BD2ED2BA-4773-4DA1-9B17-4C815475F5A4}
-        e 0 90 21 37
-        e 3840 80 21 37
+        POOLEDEVTS {9FF9A766-78F7-4421-8286-B495A3F26699}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {4CC03874-8C76-403B-9087-46BCBFD0CE56}
+        GUID {5BF9C24A-64BF-4E0E-B332-CAE1F799C92D}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1172
+        SRCCOLOR 569
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26595,32 +25276,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FAD629B5-9156-4890-8C17-8A5F5D0F3C41}
-      IID 1128
+      IGUID {F95F7C29-2DA1-4ECD-BF2E-6B982DC53286}
+      IID 527
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8FBA987E-C248-4791-AA33-23E95F73EE03}
+      GUID {322EC2D7-83E5-4D14-B68A-C0D45E3A892B}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {7CD8126B-EBFE-4CA5-BE47-565BE39F2E5B}
-        e 0 90 1c 37
-        e 3840 80 1c 37
+        POOLEDEVTS {7A60FAF9-6159-49BE-94BE-98FD672B956E}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {73390750-7B5D-4221-B875-FF650B16051B}
+        GUID {639A3DEE-258E-42C5-BAA0-73B09DDC2B3A}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1173
+        SRCCOLOR 570
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26633,26 +25309,26 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {39726680-8EBA-4A0F-8790-21DD0F750C9A}
-      IID 1129
+      IGUID {45585B43-F155-4A33-A8B8-AD793763A494}
+      IID 528
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {AED46F3F-9920-42C3-A59D-FF786B59A20B}
+      GUID {D6FA97D4-BE11-4FCF-BBA4-EF1ABF113381}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {F4D67E10-88F4-4C1A-B6EB-354997F382CC}
+        POOLEDEVTS {DA2CA3E9-783E-4307-9DD1-3D4B89F4B23D}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {C87AD5DD-2EEC-4878-A0FA-B84DA297F391}
+        GUID {0444B4EE-E172-4CA8-BC12-BF188813DED5}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1174
+        SRCCOLOR 571
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
@@ -26666,32 +25342,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8F1764EC-DDAA-41B5-93D1-F9DCD7EA27FF}
-      IID 1130
+      IGUID {708BB030-F36B-4CB7-93FF-7A7ECE716E82}
+      IID 529
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {19AB473B-3099-4900-80D3-84784E90751E}
+      GUID {336DC507-43EC-458C-A8F7-0C0FABB6E060}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {79EFEB24-9778-4CC8-9431-032560C62AA3}
-        E 0 90 21 37
-        E 3840 80 21 37
+        POOLEDEVTS {801A3258-DD6A-4773-BB6B-91FA1BACE146}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {CF164A2C-2C19-4E0A-9194-5ED9DAACD981}
+        GUID {F29C5A24-F0D1-4911-8EE8-F105AED01465}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1175
+        SRCCOLOR 572
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26704,32 +25375,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {587920AE-5E38-428E-A4ED-55ABDCAE451E}
-      IID 1131
+      IGUID {CEAE97CF-A490-46D6-9925-59BFF33C503B}
+      IID 530
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8373C067-72CC-4E40-861F-DA1BF4F236A3}
+      GUID {A7272A59-835A-452A-8B46-1B56ED17B278}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {9EA412EF-2E84-4BD4-BDB7-B56310260791}
-        e 0 90 21 37
-        e 3840 80 21 37
+        POOLEDEVTS {1A7A2079-07D9-4FF2-BB6C-FF5B21530164}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {75A7E93D-0A8E-48C7-A145-276A964BBF36}
+        GUID {072E7812-CDEC-4C31-ABA0-83A75ABF5FE5}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1176
+        SRCCOLOR 573
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26742,32 +25408,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CBC7F348-D967-40E0-A38E-62C167C91EEA}
-      IID 1132
+      IGUID {FB573FD4-D087-4C0F-BB8C-AEB22EA42379}
+      IID 531
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {67472A06-BF4A-4E8A-B9A5-E189C633353A}
+      GUID {5DB2D353-2F2F-49C5-823F-6E2DA0E7B110}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {5B6CC963-CB47-4208-9E3A-ABBEA428B4D6}
-        e 0 90 1c 37
-        e 3840 80 1c 37
+        POOLEDEVTS {1F0DA05E-A18C-4D74-B5C0-3B5DE7EB69D0}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {44BB63F8-36CE-4A9C-B661-8B48E49FD73B}
+        GUID {407AE490-C22A-4507-8B83-DBC1FE39F292}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1177
+        SRCCOLOR 574
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26780,26 +25441,26 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {38F9FCB3-A811-445A-9028-9BA6C24FF701}
-      IID 1133
+      IGUID {A1396AED-0C6E-4A2F-A33A-6424A4D50AFE}
+      IID 532
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0082030D-8C5F-4B64-B13C-12D97BA87E88}
+      GUID {2967BC9F-89C2-4753-ADD8-4D289543192B}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {1FCE33F3-73C2-4BB3-88AA-FB445DB2C633}
+        POOLEDEVTS {D53D549B-EBE6-4764-BCD4-C34313631941}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {397FB4D1-232F-4F33-ACE8-F36DBDDBF6B0}
+        GUID {86AB0FA2-AD57-4C0C-9A6B-6384CE714336}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1178
+        SRCCOLOR 575
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
@@ -26813,32 +25474,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6A723009-8C94-4644-9628-64622EE61194}
-      IID 1134
+      IGUID {E0706A33-C8AB-47DA-A498-313A8007F2EA}
+      IID 533
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {5CBFB455-05CF-43BA-BDDE-CD9B1E4B6679}
+      GUID {234D5710-B80F-4085-B051-4C9B1A0F181C}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {7A7C388D-D306-4210-AB9B-12132A52B992}
-        E 0 90 21 37
-        E 3840 80 21 37
+        POOLEDEVTS {3DC2040B-0268-46D5-8B88-102F93D05FC1}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {2DBD3B70-FCEE-40F7-A490-E084A13D971E}
+        GUID {8DA7D7C1-7278-44F5-B891-73B40BA7052B}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1179
+        SRCCOLOR 576
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26851,32 +25507,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AE6D38E5-39F7-4753-B7C3-A06DAF2DF588}
-      IID 1135
+      IGUID {9CEB159F-F7E2-41FB-9DC7-A08CAF70204E}
+      IID 534
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F348315D-26A2-441F-8FA4-DEAFA8EAB11E}
+      GUID {0568E2A0-4E7D-4C88-9AB2-4332CA7B8C5D}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {A7F4632D-01E6-4F19-B8DE-57BF0FAE2556}
-        e 0 90 21 37
-        e 3840 80 21 37
+        POOLEDEVTS {33DF2E22-F9BC-4C8F-A433-ADDF0C7A0409}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {83AFA050-F120-4346-8E5C-A79189D35EA6}
+        GUID {796CE2F6-1E95-4DC5-9404-A34A7CBB2EBC}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1180
+        SRCCOLOR 577
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26889,32 +25540,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D6AC06D8-C3BD-42CF-AB1B-7E6B4AD38BDF}
-      IID 1136
+      IGUID {9B66F9D9-1494-40BE-BB6E-7B9AB8EDF3B7}
+      IID 535
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2D7927C3-F9B1-472B-A1C1-9C8B380DDCB7}
+      GUID {E8C8AD1B-46D1-4F27-816B-7F8EAAB2D0E8}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {698393A8-5918-47ED-96B1-5319409ECC09}
-        e 0 90 1c 37
-        e 3840 80 1c 37
+        POOLEDEVTS {32A1F625-B09E-4C77-873B-03819FDF197B}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {D4E2DA76-371E-471E-BE44-77A622512D02}
+        GUID {3B3E8836-9757-4BAE-A13D-6F362C6E1BD4}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1181
+        SRCCOLOR 578
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26927,26 +25573,26 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2EA82007-0D36-4CD0-9266-CFB92D25A4B3}
-      IID 1137
+      IGUID {99AF6C35-DC95-4E02-A82E-D62F69C736A7}
+      IID 536
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7B836FB4-E088-4A32-A6BA-778D770CB9AE}
+      GUID {6BE9A1BE-2C25-4E02-9D14-A461F8B7ECD6}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {635C2A0B-C91C-474A-AA28-48BD2E2BE4FD}
+        POOLEDEVTS {CB07A4FB-8D88-4BCF-8E7B-26BEDC2491A7}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {C921E594-62A5-4761-9890-D9991A605339}
+        GUID {44C7BA54-4D75-46C7-B529-687C847A6749}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1182
+        SRCCOLOR 579
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
@@ -26960,32 +25606,27 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A8BDF77B-5E56-4887-B178-C425B6F76E28}
-      IID 1138
+      IGUID {02B5C349-198A-44A9-971A-EDEF6FC24DD6}
+      IID 537
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {5D796EF6-D787-4740-B4EA-C07FF1A3B643}
+      GUID {01AD7123-48E0-476D-802E-3ADDFD2B4776}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {B9D006B0-EA2F-4B72-9D71-C4AEAA918849}
-        E 0 90 21 37
-        E 3840 80 21 37
+        POOLEDEVTS {A09B638C-4F79-4480-B5B6-EDFD239272CC}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {00BC52A9-B83E-44AC-8E10-B8C684B27C23}
+        GUID {7B53B3F5-4B85-4D94-9A8D-513F2899594D}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1183
+        SRCCOLOR 580
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -26998,36 +25639,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A5743182-1743-4FBA-A631-7CC92446594B}
-      IID 1139
+      IGUID {A124A804-97C1-491F-9FD6-7D253387EE66}
+      IID 538
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {BFD62D6B-1B9E-401D-B512-072C6D802933}
+      GUID {85BE25E6-9F08-4D33-9333-2141BB8B07F5}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {F6AA3517-2BD2-445E-B5C5-7AD81C0E44E8}
-        e 0 90 21 37
-        e 3840 80 21 37
+        POOLEDEVTS {483AA021-C44B-4F0B-91BB-F87833180EA0}
+        E 0 90 1c 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {5AC3E510-3A40-4B98-917E-CC9E954A2E06}
+        GUID {00FE5FDE-FB2C-4508-96E6-259FA30D2ACB}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1184
+        SRCCOLOR 581
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 86 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 192
+      POSITION 288
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27060,7 +25696,7 @@
       >
     >
     <ITEM
-      POSITION 195
+      POSITION 291
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27082,9 +25718,7 @@
         CCINTERP 32
         POOLEDEVTS {3AA749F0-681C-4328-83B9-5164ED6E1A52}
         E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -27092,15 +25726,10 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 422
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW -2949.048724 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 198
+      POSITION 294
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27109,31 +25738,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4CF80F4B-02ED-49F1-91AB-6E3A6A0DBB73}
-      IID 1162
+      IGUID {E16D1D68-50C4-4305-9878-EF14AC9DBE1A}
+      IID 380
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {991E7D88-BCA8-4D6D-860E-6DC6591E934C}
+      GUID {3723FECF-497B-497A-BE48-C05588FFA318}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {946E92B4-5653-4EB6-BA1D-3AD450D30CD3}
+        POOLEDEVTS {B2A504FD-CA10-410D-B427-7DE4F7BABBCB}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {B6255D21-93C6-42BB-8941-491C189EAD66}
+        GUID {286C6DB7-DDD4-492A-9B8A-FAD43847AC69}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1207
+        SRCCOLOR 423
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 201
+      POSITION 297
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27142,71 +25771,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F857787C-41A1-477A-A67B-2FD87A49293B}
-      IID 1163
+      IGUID {C68F7342-4BE3-4BAC-967D-9F0B80C78A2D}
+      IID 392
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3FF0BF9E-E4FC-4E5E-9312-18D11127443F}
+      GUID {30779FC0-AFDC-4B1D-B728-CBEA57EFA3EE}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {0F5823F5-1F24-4622-851E-9977E91D99A8}
-        E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {C8D9D64E-7CBE-478A-839C-EB361968244F}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1208
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 204
-      SNAPOFFS 0
-      LENGTH 3
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D82313DF-31A6-463D-B86D-D3E3BD6EC04C}
-      IID 1168
-      NAME 07-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9FBE67C2-48F2-47ED-89F2-9E69564442FE}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {FC64F82C-ECE0-4658-A698-BE35A2ABA86D}
+        POOLEDEVTS {3072569F-5A5C-4C2C-A35A-6268C0C26DFA}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {ADA1E234-AD56-4129-AAC3-C81D391DE85A}
+        GUID {C5B7DCD9-14AA-4E20-8D57-3D1E124F00DE}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1213
+        SRCCOLOR 435
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 207
+      POSITION 300
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27215,71 +25804,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E908BF6B-97B7-4097-95D7-BDF77BB5CD95}
-      IID 1169
+      IGUID {76AECADD-FF45-4747-8654-9776692070DA}
+      IID 385
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A240081D-CCC8-46E1-AD0B-9B899EC89F97}
+      GUID {9D8FC9D0-9E48-467B-B005-BC895C31DD43}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {AD8BA8DE-E6E2-4062-8CD0-1DD50F40DF6E}
-        E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {405884F1-0D09-4F1D-A13E-E6A6A9E97F5A}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1214
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 210
-      SNAPOFFS 0
-      LENGTH 3
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D5E76958-ED54-420D-A1B9-EBAD1069C570}
-      IID 1170
-      NAME 07-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2E5522BD-0D16-4442-9A91-BF30EA557233}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {DF2921DC-87A9-4B34-AE7C-EEBE9BAE647F}
+        POOLEDEVTS {31A8779D-B34F-4F21-A5CF-BDD82C37FDA7}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {07247736-B271-4CDA-B548-72E29E56A5D0}
+        GUID {880FD216-9E39-4C54-B006-7041FDA4F360}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1215
+        SRCCOLOR 428
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 213
+      POSITION 303
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27288,71 +25837,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9C38D1FD-CC9C-4C42-848C-467F555E5523}
-      IID 1171
+      IGUID {0F8A34FE-4C3A-4C24-BC9A-44A266325EB5}
+      IID 386
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {612AB029-A84D-4D1E-8971-0031F8027F33}
+      GUID {9FA4361B-F9EA-47F3-8E3D-577B46E1A106}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {4C632897-88D7-4A00-B01F-135CBD81AD0F}
-        E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {4CFF63D4-BD30-469D-A96C-7A1629549E3D}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 216
-      SNAPOFFS 0
-      LENGTH 3
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0914FE3C-D7BB-4AEF-B8FB-C0691235254A}
-      IID 1176
-      NAME 07-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {186AE566-A276-47D6-B4CF-84668118DFE1}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {3A62CD6B-69FE-40B9-AE64-D0142ED6BAED}
+        POOLEDEVTS {C55DE55A-E56D-4A1E-8636-C847ABA01A03}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {C2026C17-4EBB-470F-AB6C-735EE02A406F}
+        GUID {0DF82380-2166-496F-B887-4AE9C2AD4228}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1221
+        SRCCOLOR 429
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 219
+      POSITION 306
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27361,71 +25870,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DB2D5C57-5044-413F-8CA2-74C3ED8ADD50}
-      IID 1177
+      IGUID {28912EE3-F984-4BB1-9A08-D7C0E6CC8A6D}
+      IID 387
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B51B3F67-9729-4D90-9975-5C174AD24CEF}
+      GUID {7D52D404-6D06-4643-9A38-4C4792E40FED}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {C1F3C0C7-D921-435C-90DB-9EA147672399}
-        E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {FD6DB657-06E4-4C44-8508-8841FE681F1F}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1222
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 222
-      SNAPOFFS 0
-      LENGTH 3
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3CAB72EC-2A1C-4082-860F-D41ABCE995D4}
-      IID 1178
-      NAME 07-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {71CCA312-D272-4C38-A7AD-196842AFE07D}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {87DA6615-320D-45E2-B99A-A8A362D55E41}
+        POOLEDEVTS {66DFC7DA-61CA-4C85-958F-C213D37E465C}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {8210289B-D474-4F24-935C-C5B698D7182A}
+        GUID {407414E8-0F00-4618-9F2C-94EAA447CD79}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1223
+        SRCCOLOR 430
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 225
+      POSITION 309
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27434,71 +25903,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FAC363F9-4413-43A9-BFE5-CD62B8ED2484}
-      IID 1179
+      IGUID {824599DF-2FB2-48CF-BE78-0E96C266556F}
+      IID 393
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {CD21140F-BA37-4F71-A5BA-12B82AA57D58}
+      GUID {161489EE-3F5E-4F47-B639-323232D870AE}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {FA99E694-6266-4310-AF4C-A65F456BA49D}
-        E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {77647CCE-C20B-4EC3-A046-F8C87BFAA7A9}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1224
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 228
-      SNAPOFFS 0
-      LENGTH 3
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {33272CE2-0267-4DA5-912A-562E5AE7F6CA}
-      IID 1184
-      NAME 07-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {77AD2C70-EF2F-49D3-B50D-EE01EB0A2BA5}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {21C066AC-E4F2-4501-8CD9-C7B5DF8A487D}
+        POOLEDEVTS {E3590ED5-779F-4F80-84D0-5F41B1C9D04D}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {A298270B-E78A-49AB-8E0F-B8A6DD6600F1}
+        GUID {C378DFE3-7554-4A65-B642-59A57F3C68DB}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1229
+        SRCCOLOR 436
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 231
+      POSITION 312
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27507,71 +25936,31 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {833C642E-12A3-44AC-8DFB-59F0546F2E77}
-      IID 1185
+      IGUID {03F52B26-5A18-4742-9C0C-0F6F4BB2CC80}
+      IID 1025
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {1C2F8BF5-103E-4EDE-8F6A-E2BFB9A17B90}
+      GUID {D41FFA5E-9861-4B4E-BA83-AB555C4ECDED}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {4F9668F3-5631-4579-9267-7733920E7012}
-        E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
-        E 0 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {2C7C67F3-2641-439F-B6D5-B91981A6732B}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 1230
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 234
-      SNAPOFFS 0
-      LENGTH 3
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EF55EA73-FA66-4B8F-9640-106AFB582D91}
-      IID 1186
-      NAME 07-MIDI
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C407E922-99AF-4D77-9FD0-123CEAE57F3C}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {BD1D3D19-276B-4DBE-9D8B-A9A998EDEAD9}
+        POOLEDEVTS {74913CD4-4E9A-46E3-8D81-20429C466CFF}
         E 0 90 1c 37
         E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {0C3F9A44-C823-4FB9-B361-72D172410801}
+        GUID {522CE6F6-E2B0-4F58-8C0D-C46C17471ABF}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1231
+        SRCCOLOR 1070
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
       >
     >
     <ITEM
-      POSITION 237
+      POSITION 315
       SNAPOFFS 0
       LENGTH 3
       LOOP 0
@@ -27580,38 +25969,229 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B8929271-58B7-4C2E-9BE3-D95F530080DE}
-      IID 1187
+      IGUID {189E323C-A91E-42D2-B2ED-6C8DC417A6D1}
+      IID 1026
       NAME 07-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {96AD1306-418E-411E-8AAC-B02D798CED9B}
+      GUID {C39A1067-8BCF-44EE-A5E6-1A90854B034C}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {986C2FBD-7DA3-4869-8477-B809178084DF}
+        POOLEDEVTS {90A72D38-CC5E-435F-8545-C1C7BD2AED02}
         E 0 90 1c 37
-        E 1920 80 1c 37
-        e 0 90 1d 37
-        e 1920 80 1d 37
+        E 3840 80 1c 37
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {472B8A62-7931-4876-9BB2-792771D86F78}
+        GUID {07758934-D51D-4ABC-910A-0DBBF12B24CC}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 1232
+        SRCCOLOR 1071
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.11224 80 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 240
+      POSITION 318
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5EEDACFB-AA0A-4255-B178-F6B176DC2691}
+      IID 1027
+      NAME 07-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09C0605F-A111-44B8-B058-A02AD7A776BA}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {5AF854FF-3B25-4B6B-9FB7-C2ADD34F7980}
+        E 0 90 1c 37
+        E 3840 80 1c 37
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {2C29D899-F88C-4F23-A6C0-918792E21831}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1072
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 321
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {488CA44B-0221-4EF1-BDCF-6CD36118F8B1}
+      IID 1028
+      NAME 07-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0205ACAB-E48B-4526-B189-B37987F4A9F2}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {FEBF8399-B900-4D3D-80B7-B79BB5227E9A}
+        E 0 90 1c 37
+        E 3840 80 1c 37
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {C6898266-E86C-44F9-BEA4-55019E405F41}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1073
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 324
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80AA2A09-0684-4BA0-911A-935B4B9C33AB}
+      IID 1029
+      NAME 07-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E7687FF-2379-49F0-A973-87A71435FA3F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7115EA38-FABD-493D-97B1-DAA7BA6AFE74}
+        E 0 90 1c 37
+        E 3840 80 1c 37
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {9BC4ED4E-C885-4F31-AFBC-2E4647FC2B2A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1074
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 327
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {100A083B-A9AA-4D23-95A5-20325FE8CC08}
+      IID 1030
+      NAME 07-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90F7DD18-D56A-4C67-BD69-98DB4BD6C895}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C9B4DF3B-4149-4398-A5F1-9628918F6943}
+        E 0 90 1c 37
+        E 3840 80 1c 37
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {AE74227A-083D-43FA-8EC1-96CC08B336A3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1075
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 330
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {295B6A0D-D767-4064-94AF-AD0C6C5C6D4A}
+      IID 1031
+      NAME 07-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {513AD6D6-7911-4AF0-AA34-244BAB750966}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {1D070A1B-B65D-41EE-8B47-7B401282CD2B}
+        E 0 90 1c 37
+        E 3840 80 1c 37
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {51137F18-6888-4B9C-8683-AA1FBDBB51B5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1076
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 333
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F55F43B9-0064-4EB8-9B3B-1531129B2380}
+      IID 1032
+      NAME 07-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {327A90A3-2BBF-48BA-A240-B763DEC16AD7}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {4C3706E4-EB1D-4922-9D78-5B3D70DF5261}
+        E 0 90 1c 37
+        E 3840 80 1c 37
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {51853A24-1C7B-4A80-9B75-791D11918149}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1077
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 336
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -27683,11 +26263,11 @@
         CFGEDITVIEW 0 0.015484 67 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 264
+      POSITION 360
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -27759,11 +26339,11 @@
         CFGEDITVIEW 0 0.015484 67 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 288
+      POSITION 384
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -27835,11 +26415,11 @@
         CFGEDITVIEW 0 0.015484 67 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 312
+      POSITION 408
       SNAPOFFS 0
       LENGTH 24
       LOOP 0
@@ -27911,11 +26491,11 @@
         CFGEDITVIEW 0 0.015484 67 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 336
+      POSITION 432
       SNAPOFFS 0
       LENGTH 6
       LOOP 0
@@ -27957,11 +26537,11 @@
         CFGEDITVIEW -68948.227753 0.015484 67 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 342
+      POSITION 438
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28030,11 +26610,11 @@
         CFGEDITVIEW -15599.766334 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 354
+      POSITION 450
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28103,11 +26683,11 @@
         CFGEDITVIEW -30959.766334 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 366
+      POSITION 462
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28176,11 +26756,11 @@
         CFGEDITVIEW -46319.766334 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 378
+      POSITION 474
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28249,11 +26829,11 @@
         CFGEDITVIEW -61679.766334 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 390
+      POSITION 486
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28322,11 +26902,11 @@
         CFGEDITVIEW -77039.766334 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 402
+      POSITION 498
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28395,11 +26975,11 @@
         CFGEDITVIEW 0 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 414
+      POSITION 510
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28468,11 +27048,11 @@
         CFGEDITVIEW 0 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 426
+      POSITION 522
       SNAPOFFS 0
       LENGTH 12
       LOOP 0
@@ -28541,11 +27121,11 @@
         CFGEDITVIEW 0 0.067012 69 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 510
+      POSITION 924
       SNAPOFFS 0
       LENGTH 12.0000000000075
       LOOP 0
@@ -28586,13 +27166,13 @@
         CFGEDITVIEW 136 0.017623 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 522.0000000000075
+      POSITION 936.0000000000075
       SNAPOFFS 0
-      LENGTH 12.00000000000716
+      LENGTH 12.00000000000728
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -28631,13 +27211,13 @@
         CFGEDITVIEW 0 0.017623 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 534.00000000001467
+      POSITION 948.00000000001478
       SNAPOFFS 0
-      LENGTH 12.00000000000716
+      LENGTH 12.00000000000705
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -28676,11 +27256,11 @@
         CFGEDITVIEW 0 0.017623 58 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 546.00000000002206
+      POSITION 960.00000000002206
       SNAPOFFS 0
       LENGTH 12.00000000000728
       LOOP 0
@@ -28721,11 +27301,11 @@
         CFGEDITVIEW -263547.066667 0.017623 57 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 630
+      POSITION 1044
       SNAPOFFS 0
       LENGTH 36
       LOOP 0
@@ -28785,11 +27365,11 @@
         CFGEDITVIEW 16009.03002 0.037291 76 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 666
+      POSITION 1080
       SNAPOFFS 0
       LENGTH 60
       LOOP 0
@@ -28845,11 +27425,11 @@
         CFGEDITVIEW 4072.987572 0.011551 66 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 753
+      POSITION 1167
       SNAPOFFS 0
       LENGTH 69.9359375
       LOOP 0
@@ -29158,11 +27738,11 @@
         CFGEDITVIEW 0 0 -1 12 0 0 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 0
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 870
+      POSITION 1284
       SNAPOFFS 0
       LENGTH 24.00000000000728
       LOOP 0
@@ -29203,7 +27783,7 @@
       >
     >
     <ITEM
-      POSITION 897
+      POSITION 1311
       SNAPOFFS 0
       LENGTH 29.9999999999925
       LOOP 0
@@ -29255,7 +27835,7 @@
         CFGEDITVIEW -72727.012428 0.011551 66 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 1 346 489 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 0 0 0 1 0 1 1 1 2 330 473 1473 946 1 0 0 0 0 0 1 0 0 0.5 0 0 1 64
       >
     >
   >
